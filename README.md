@@ -15,4 +15,4 @@ Example of NPC text:
 ![text](example/text.PNG)
 
 Audio:
-
+https://raw.githubusercontent.com/dreanor/cactbot-chatTTS/master/example/translate_tts.mp3
