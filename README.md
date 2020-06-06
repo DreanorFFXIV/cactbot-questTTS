@@ -1,6 +1,6 @@
 # Chat TTS
 
-This plugin reads the NPC chat and reads it back to you through google translate.
+This plugin reads the NPC chat and reads it back to you through google translate. The text will only be read after the speach bubble has been closed due to how the text appears in the chat.
 
 ### Install
 1. Place the folder chatTTS in cactbot/ui
