@@ -14,5 +14,5 @@ Go to your options and activate the following in any chat tab:
 Example of NPC text:  
 ![text](example/text.PNG)
 
-Audio:
+Audio:  
 https://raw.githubusercontent.com/dreanor/cactbot-chatTTS/master/example/translate_tts.mp3
